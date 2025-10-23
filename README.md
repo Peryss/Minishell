@@ -20,7 +20,6 @@ My main contributions included:
 - Designing and implementing the **syntax analyzer** using a **shift-reduce algorithm**  
 - Developing the **execution module**, including pipes, redirections, and process management  
 - Implementing **signal handling** and creating the global signal structure (`t_signals`)  
-- Setting up the **Docker environment** for consistent development  
 - Debugging and testing built-in commands and redirections  
 
 ---
